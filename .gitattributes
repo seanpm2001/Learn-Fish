@@ -32,10 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# Less stylesheet file
-*.less linguist-detectable=true
-*.less linguist-documentation=false
-*.less linguist-language=Less
+# Fish source file
+*.fish linguist-detectable=true
+*.fish linguist-documentation=false
+*.fish linguist-language=Fish
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -165,6 +165,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
+# File version: 5 (2022, Friday, September 16th at 1:51 pm PST)
 # Line count (including blank lines and compiler line): 171
 # End of script
